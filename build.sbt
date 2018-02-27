@@ -2,7 +2,7 @@ scalaVersion in ThisBuild := "2.12.4"
 
 lazy val commonSettings = Seq(
   version := "0.1-SNAPSHOT",
-  organization := "com.universia.KafkaTwitter",
+  organization := "KafkaTwitter",
   scalaVersion := "2.12.4"
 )
 
