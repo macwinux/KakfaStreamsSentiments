@@ -1,4 +1,5 @@
-package kafkatwitter
+package com.universia.twittergen
+
 
 import java.lang.reflect.{ParameterizedType, Type}
 import java.util
@@ -7,8 +8,8 @@ import com.fasterxml.jackson.annotation.JsonInclude
 import com.fasterxml.jackson.core.JsonParseException
 import com.fasterxml.jackson.core.`type`.TypeReference
 import com.fasterxml.jackson.databind.ObjectMapper
-import com.fasterxml.jackson.databind.exc.{UnrecognizedPropertyException => UPE}
 import com.fasterxml.jackson.module.scala.DefaultScalaModule
+import com.fasterxml.jackson.databind.exc.{UnrecognizedPropertyException => UPE}
 import org.apache.kafka.common.serialization.{Deserializer, Serde, Serializer}
 
 object Json {
