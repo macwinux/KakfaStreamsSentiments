@@ -1,4 +1,4 @@
-package com.universia.twittergen
+package kafkatwitter
 
 
 import java.lang.reflect.{ParameterizedType, Type}

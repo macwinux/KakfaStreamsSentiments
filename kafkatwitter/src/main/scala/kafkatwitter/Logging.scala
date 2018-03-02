@@ -1,4 +1,4 @@
-package com.universia.twittergen
+package kafkatwitter
 
 import com.typesafe.scalalogging.Logger
 import org.apache.log4j.{BasicConfigurator, Level, Logger => UnderlyingLogger}

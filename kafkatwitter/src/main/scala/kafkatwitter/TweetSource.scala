@@ -1,4 +1,4 @@
-package com.universia.twittergen
+package kafkatwitter
 
 
 

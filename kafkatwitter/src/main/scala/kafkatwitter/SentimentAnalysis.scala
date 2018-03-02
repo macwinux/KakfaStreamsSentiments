@@ -1,5 +1,3 @@
-package com.universia.twittergen
-
 package kafkatwitter
 
 import java.util.Properties

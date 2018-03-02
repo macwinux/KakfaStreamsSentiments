@@ -1,4 +1,4 @@
-package com.universia.twittergen
+package kafkatwitter
 
 import org.apache.kafka.clients.producer.ProducerRecord
 
